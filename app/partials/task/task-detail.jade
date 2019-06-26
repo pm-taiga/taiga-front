@@ -21,11 +21,6 @@ div.wrapper(
 
         section.us-story-main-data
             header
-                tg-vote-button.upvote-btn(
-                    item="task",
-                    on-upvote="ctrl.onUpvote",
-                    on-downvote="ctrl.onDownvote"
-                )
                 tg-detail-header.detail-header-container(
                     item="task"
                     project="project"
@@ -94,12 +89,19 @@ div.wrapper(
                 data-environment="ticket"
                 on-watch="ctrl.onWatch"
                 on-unwatch="ctrl.onUnwatch"
+                active-users="activeUsers"
             )
             div.ticket-watchers(
                 tg-watchers
                 ng-model="task"
                 required-perm="modify_us"
             )
+
+        tg-vote-button.upvote-btn(
+            item="task",
+            on-upvote="ctrl.onUpvote",
+            on-downvote="ctrl.onDownvote"
+        )
 
         section.ticket-detail-settings
             tg-due-date(
@@ -124,5 +126,3 @@ div.wrapper(
             )
 
     div.lightbox.lightbox-block(tg-lb-block, ng-model="task", title="TASK.LIGHTBOX_TITLE_BLOKING_TASK")
-    div.lightbox.lightbox-select-user(tg-lb-assignedto)
-    div.lightbox.lightbox-select-user(tg-lb-watchers)

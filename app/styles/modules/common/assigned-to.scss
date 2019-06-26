@@ -12,6 +12,9 @@
             transition: opacity .3s linear;
         }
     }
+    > div {
+        width: 100%;
+    }
     .loading-spinner {
         @include loading-spinner;
         margin: 1rem auto;
@@ -23,7 +26,7 @@
         flex-shrink: 0;
         position: relative;
         img {
-            width: 100%;
+            @include avatar-img(3rem);
         }
         &.is-iocaine {
             img {
