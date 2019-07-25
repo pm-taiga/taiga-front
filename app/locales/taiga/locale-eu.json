@@ -306,6 +306,9 @@
                 "ADD_WIKI_LINKS": "Gehitu wiki estekak",
                 "DELETE_WIKI_LINKS": "Ezabatu wiki esteka"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
@@ -333,7 +336,7 @@
         "SUCCESS": "Galtzagorriak pozik dira, ongi etorri Taigara."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Eman izena - Taiga",
+        "PAGE_TITLE": "Eman izena - Pmhub",
         "PAGE_DESCRIPTION": "Sortu kontu bat Taigan… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "Izena eman duzu? Hasi saioa Hasi saioa"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Pasahitza ahaztuta - Taiga",
+        "PAGE_TITLE": "Pasahitza ahaztuta - Pmhub",
         "PAGE_DESCRIPTION": "Sartu zure erabiltzaile izena edo e-posta, pasahitz berri bat eskuratzeko, Taigara etortzen zaren hurrengorako."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "Gure Galtzagorrien arabera, ez duzu izenik eman."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Aldatu pasahitza - Taiga",
+        "PAGE_TITLE": "Aldatu pasahitza - Pmhub",
         "SECTION_NAME": "Aldatu pasahitza",
         "FIELD_CURRENT_PASSWORD": "Oraingo pasahitza",
         "PLACEHOLDER_CURRENT_PASSWORD": "Oraingo zure pasahitza (edo laga hutsik ez baduzu oraindik)",
@@ -381,7 +384,7 @@
         "SUCCESS": "Gure Galtzagorriek gorde dute zure pasahitz berria.<br /> Saiatu <strong>saioa hasten</strong> berarekin."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Gonbita onartu - Taiga",
+        "PAGE_TITLE": "Gonbita onartu - Pmhub",
         "PAGE_DESCRIPTION": "Onartu gonbidapena proiektu baterako Taigan… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "Bat egin duzu, ongi etorri proiektu honetara: {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Hasiera - Taiga",
+        "PAGE_TITLE": "Hasiera - Pmhub",
         "PAGE_DESCRIPTION": "Taigaren hasierako orrian aurkituko dituzu zure proiektuak, zuri egotzitako eginkizun, ataza eta gertakariekin.",
         "EMPTY_WORKING_ON": "<strong>Hutsik dago, ezta?</strong> Hasi Taigarekin lanean eta hemen ikusiko dituzu lantzen ari zaren eginkizun, ataza eta gertakariak.",
         "EMPTY_WATCHING": "<strong>Jarraiki</strong> zure proiektuen eginkizunei, atazei eta gertakariei eta jaso aldaketen jakinarazpenak :)",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Nire proiektuak - Taiga",
+        "PAGE_TITLE": "Nire proiektuak - Pmhub",
         "PAGE_DESCRIPTION": "Zure proiektu guztien zerrenda; hurrenkera aldatu edo berri ba sor dezakezu.",
         "MY_PROJECTS": "Nire proiektuak"
     },
@@ -1839,7 +1842,7 @@
             "CLEAR": "Garbitu iragazkiak"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Bilatu - Aurkitu proiektuak - Taiga",
+            "PAGE_TITLE": "Bilatu - Aurkitu proiektuak - Pmhub",
             "PAGE_DESCRIPTION": "Taigako proiektu publikoen direktorioa Esploratu epeak, gertakariak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera",
             "INPUT_PLACEHOLDER": "Idatzi zeozer…",
             "ACTION_TITLE": "Bilatu",

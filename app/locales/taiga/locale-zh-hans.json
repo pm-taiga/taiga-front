@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "新增维基链接",
                 "DELETE_WIKI_LINKS": "删除维基链接"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "登入 - Taiga",
+        "PAGE_TITLE": "登入 - Pmhub",
         "PAGE_DESCRIPTION": "登录Taig，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Taiga是一个简易轻松美观的工具，让工作变成乐趣。"
     },
     "AUTH": {
@@ -333,7 +336,7 @@
         "SUCCESS": "欢迎你登录Taiga"
     },
     "REGISTER": {
-        "PAGE_TITLE": "注册 - Taiga",
+        "PAGE_TITLE": "注册 - Pmhub",
         "PAGE_DESCRIPTION": "在Taiga创建一个账户，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Taiga是一个简易轻松美观的工具，让工作变成乐趣。"
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "你是否已注册? 登录"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "忘记密码 - Taiga",
+        "PAGE_TITLE": "忘记密码 - Pmhub",
         "PAGE_DESCRIPTION": "请输入你的用户名或电子邮件地址获取新密码重新登录Taiga"
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "根据我们的系统记录，你尚未注册"
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "修改密码 - Taiga",
+        "PAGE_TITLE": "修改密码 - Pmhub",
         "SECTION_NAME": "更新密码",
         "FIELD_CURRENT_PASSWORD": "当前密码",
         "PLACEHOLDER_CURRENT_PASSWORD": "你当前的密码（如果你未有密码，此处请空白）",
@@ -381,7 +384,7 @@
         "SUCCESS": "系统已储存你的新密码<br />试试 <strong>用它登录</strong>"
     },
     "INVITATION": {
-        "PAGE_TITLE": "接受邀请 - Taiga",
+        "PAGE_TITLE": "接受邀请 - Pmhub",
         "PAGE_DESCRIPTION": "接受邀请加入Taiga上的项目，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Taiga是一个简易轻松美观的工具，让工作变成乐趣。"
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "你成功地加入此项目，欢迎来到 {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "首页 - Taiga",
+        "PAGE_TITLE": "首页 - Pmhub",
         "PAGE_DESCRIPTION": "Taiga 首页，你的主要项目以及任命，观看用户故事，任务与问题。",
         "EMPTY_WORKING_ON": "<strong>看起来空荡荡的，是不是？</strong>开始使用Taiga，你将会在这里看到你正在处理的用户故事，任务以及问题。",
         "EMPTY_WATCHING": "在你的项目中<strong>追踪</strong>用户故事、任务、问题并且收到更新的通知 :)",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "我的项目 - Taiga",
+        "PAGE_TITLE": "我的项目 - Pmhub",
         "PAGE_DESCRIPTION": "你的项目列表，你可以重新排序或者创建新项目。",
         "MY_PROJECTS": "我的项目"
     },
@@ -1839,7 +1842,7 @@
             "CLEAR": "清除过滤"
         },
         "SEARCH": {
-            "PAGE_TITLE": "搜索 - 发现项目 - Taiga",
+            "PAGE_TITLE": "搜索 - 发现项目 - Pmhub",
             "PAGE_DESCRIPTION": "Taiga中的公共项目的可搜索的目录。探索积压，时间线，问题，以及团队。检索出最喜欢的或者最活跃的项目。通过看板或者敏捷开发进行过滤。",
             "INPUT_PLACEHOLDER": "输入内容...",
             "ACTION_TITLE": "搜索",
@@ -1859,5 +1862,11 @@
         "TIP_ZOOM": "您可以通过缩放控件缩小卡片上显示的信息来更广泛地查阅看板。",
         "TIP_CUSTOM_FIELDS": "如果您是项目的管理员，请考虑创建自定义字段来拓展任务的配置。",
         "TIP_SLIDE_ARROWS": "您可以通过单击任何一项的详细视图上的导航箭头来循环显示列表、搜索或筛选的结果。"
+    },
+    "FOOTER":{
+        "NAME":"stephenxjc",
+        "EMAIL":"stephenxjc@126.com",
+        "ADDRESS":"广州, 中国",
+        "RECORD_ID":"粤ICP备19075188号"
     }
 }

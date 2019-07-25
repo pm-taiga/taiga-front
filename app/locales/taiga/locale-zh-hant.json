@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "新增維基連結",
                 "DELETE_WIKI_LINKS": "刪除維基連結"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "登入 - Taiga",
+        "PAGE_TITLE": "登入 - Pmhub",
         "PAGE_DESCRIPTION": "登入Taig，它是一個給新創團隊與敏捷開發者設計師使用的專案管理平台。Taiga是一個簡易輕鬆美觀的工具，讓工作變成樂趣。"
     },
     "AUTH": {
@@ -333,7 +336,7 @@
         "SUCCESS": "我們系統歡迎你加入Taiga"
     },
     "REGISTER": {
-        "PAGE_TITLE": "註冊 - Taiga",
+        "PAGE_TITLE": "註冊 - Pmhub",
         "PAGE_DESCRIPTION": "在Taiga創建一個帳號，它是一個給新創團隊與敏捷開發者設計師使用的專案管理平台。Taiga是一個簡易輕鬆美觀的工具，讓工作變成樂趣。"
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "你是否已註冊? 登入"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "忘記密碼  - Taiga",
+        "PAGE_TITLE": "忘記密碼  - Pmhub",
         "PAGE_DESCRIPTION": "輸入用戶名稍或電子郵件以獲取新密碼，可以再重新登入Taiga權限"
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "按我們的記錄，你尚未註冊"
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "變更密碼 - Taiga",
+        "PAGE_TITLE": "變更密碼 - Pmhub",
         "SECTION_NAME": "改變密碼 ",
         "FIELD_CURRENT_PASSWORD": "現用密碼 ",
         "PLACEHOLDER_CURRENT_PASSWORD": "你目前的密碼（如果你未有密碼，此處請空白）",
@@ -389,7 +392,7 @@
         "SUCCESS": "你成功地加入此專案，歡迎來到 {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "首頁 - Taiga",
+        "PAGE_TITLE": "首頁 - Pmhub",
         "PAGE_DESCRIPTION": "Taiga 首頁，你的主要專案以及任命，觀看使用者故事，任務與問題。",
         "EMPTY_WORKING_ON": "<strong>It feels empty, doesn't it?</strong> Start working with Taiga and you'll see here the stories, tasks and issues you are working on.",
         "EMPTY_WATCHING": "<strong>Follow</strong> User Stories, Tasks, Issues in your projects and be notified about its changes :)",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "我的專案 - Taiga",
+        "PAGE_TITLE": "我的專案 - Pmhub",
         "PAGE_DESCRIPTION": "你的專案列表，你可以記錄或創建新專案。",
         "MY_PROJECTS": "我的專案"
     },
@@ -1816,7 +1819,7 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Discover projects - Taiga",
+        "PAGE_TITLE": "Discover projects - Pmhub",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
         "DISCOVER_TITLE": "發現更多專案",
         "DISCOVER_SUBTITLE": "{projects, plural, one{One public project to discover} other{# public projects to discover}}",
@@ -1839,7 +1842,7 @@
             "CLEAR": "清除過濾器 "
         },
         "SEARCH": {
-            "PAGE_TITLE": "Search - Discover projects - Taiga",
+            "PAGE_TITLE": "Search - Discover projects - Pmhub",
             "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
             "INPUT_PLACEHOLDER": "輸入文字",
             "ACTION_TITLE": "搜尋",

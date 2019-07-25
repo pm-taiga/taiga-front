@@ -306,6 +306,9 @@
                 "ADD_WIKI_LINKS": "위키 링크 추가하기",
                 "DELETE_WIKI_LINKS": "위키 링크 삭제하기"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {

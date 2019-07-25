@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "Добавить wiki-ссылки",
                 "DELETE_WIKI_LINKS": "Удалить wiki-ссылки"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Вход - Taiga",
+        "PAGE_TITLE": "Вход - Pmhub",
         "PAGE_DESCRIPTION": "Выполняется вход в Taiga, платформу для управления проектами стартапов, сделанную для разработчиков и дизайнеров, которые хотят простой и красивый инструмент превращающий работу в удовольствие."
     },
     "AUTH": {
@@ -361,7 +364,7 @@
         "ERROR": "Умпа-Лумпы говорят, что Вы еще не зарегистрированы."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Изменить пароль - Taiga",
+        "PAGE_TITLE": "Изменить пароль - Pmhub",
         "SECTION_NAME": "Изменить пароль",
         "FIELD_CURRENT_PASSWORD": "Текущий пароль",
         "PLACEHOLDER_CURRENT_PASSWORD": "Ваш текущий пароль (или оставьте пустым, если пароль еще не задан)",
@@ -381,7 +384,7 @@
         "SUCCESS": "Наши Умпа-Лумпы сохранили Ваш новый пароль.<br /> Попробуйте <strong>войти</strong>, используя его."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Приглашение принято - Taiga",
+        "PAGE_TITLE": "Приглашение принято - Pmhub",
         "PAGE_DESCRIPTION": "Принять приглашение и присоединиться к Taiga — платформе для управления проектами стартапов, agile разработчиков и дизайнеров, которые хотят простой и красивый инструмент превращающий работу в удовольствие."
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "Вы успешно добавлены к проекту. Добро пожаловать в {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Домашняя страница - Taiga",
+        "PAGE_TITLE": "Домашняя страница - Pmhub",
         "PAGE_DESCRIPTION": "Главная страница Taiga с вашими основными проектами, назначенными и отслеживаемыми ПИ, задачами и запросами",
         "EMPTY_WORKING_ON": "<strong>Тут кажется пусто, не правда ли?</strong> Начинайте использовать Taiga и вы увидите здесь истории, задачи и запросы над которыми вы сейчас работаете.",
         "EMPTY_WATCHING": "<strong>Следите</strong> за пользовательскими историями, задачами, запросами в ваших проектах и будьте уведомлены об изменениях :)",
@@ -1816,7 +1819,7 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Найти проекты - Taiga",
+        "PAGE_TITLE": "Найти проекты - Pmhub",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
         "DISCOVER_TITLE": "Найти проекты",
         "DISCOVER_SUBTITLE": "{projects, plural, one{Всего один публичный проект} other{Всего публичных проектов: #}}",
@@ -1839,7 +1842,7 @@
             "CLEAR": "Очистить фильтры"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Поиск - Найти проекты - Taiga",
+            "PAGE_TITLE": "Поиск - Найти проекты - Pmhub",
             "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
             "INPUT_PLACEHOLDER": "Введите что-нибудь...",
             "ACTION_TITLE": "Поиск",

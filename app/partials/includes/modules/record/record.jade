@@ -1,2 +1,25 @@
-#footer(style='clear:both;text-align:center;')
-    a(href='http://www.beian.miit.gov.cn/', target="_blank") 粤ICP备19075188号
+footer.record-footer
+    section
+        address
+            span Written By 
+            a(
+                href="mailto:{{'FOOTER.EMAIL' | translate}}",
+                target="_blank",
+                translate="FOOTER.NAME"
+            )
+            span  from {{'FOOTER.ADDRESS' | translate}}
+            span  on github 
+            a(
+                href="https://github.com/pm-taiga",
+                target="_blank"
+            ) pm-taiga
+    section
+        div(style='width:300px;margin:0 auto; padding:20px 0;')
+            a(
+                href='http://www.beian.miit.gov.cn/', 
+                target="_blank", 
+                translate="FOOTER.RECORD_ID"
+            ) 
+            a(target='_blank', href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010602006650', style='display:inline-block;text-decoration:none;height:20px;line-height:20px;')
+                img(src='/#{v}/images/record/beian.png', style='float:left;')
+                p(style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;') 粤公网安备 44010602006650号

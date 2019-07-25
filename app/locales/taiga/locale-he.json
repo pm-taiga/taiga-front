@@ -306,6 +306,9 @@
                 "ADD_WIKI_LINKS": "הוסף קישורי ויקי",
                 "DELETE_WIKI_LINKS": "מחק קישורי ויקי"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {

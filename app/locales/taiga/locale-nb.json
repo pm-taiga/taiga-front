@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "Legg til wiki-lenker",
                 "DELETE_WIKI_LINKS": "Slett wiki-lenker"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Login - Taiga",
+        "PAGE_TITLE": "Login - Pmhub",
         "PAGE_DESCRIPTION": "Logg på Taiga, prosjektledelsesplattformen for startups, smidige utviklere og designere som ønsker et enkelt og pent verktøy som gjør arbeidet en fornøyelse."
     },
     "AUTH": {
@@ -333,7 +336,7 @@
         "SUCCESS": "Våre Oompa Loompaer er glade, velkommen til Taiga ."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Registrer - Taiga",
+        "PAGE_TITLE": "Registrer - Pmhub",
         "PAGE_DESCRIPTION": "Opprett en konto i Taiga , prosjektledelsesplattformen for startups, smidige utviklere og designere som ønsker et enkelt og pent verktøy som gjør arbeidet en fornøyelse."
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "Er du allerede registrert? Logg inn"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Glemt passord - Taiga",
+        "PAGE_TITLE": "Glemt passord - Pmhub",
         "PAGE_DESCRIPTION": "Skriv inn brukernavn eller e-post for å få et nytt passord, og du kan få tilgang til Taiga igjen."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "I følge våre Oompa Loompas har du ikke registert deg ennå."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Endre ditt passord - Taiga",
+        "PAGE_TITLE": "Endre ditt passord - Pmhub",
         "SECTION_NAME": "Endre passord",
         "FIELD_CURRENT_PASSWORD": "Nåværende passord",
         "PLACEHOLDER_CURRENT_PASSWORD": "Din nåværende passord (eller tomt hvis du ikke har ett)",
@@ -381,7 +384,7 @@
         "SUCCESS": "Oompa Loompaene våre lagret ditt nye passord.<br /> Prøv å <strong>logge inn</strong> med det."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Invitasjonsbekreftelse - Taiga",
+        "PAGE_TITLE": "Invitasjonsbekreftelse - Pmhub",
         "PAGE_DESCRIPTION": "Godta invitasjonen til å delta i et prosjekt i Taiga, prosjektledelsesplattformen for startups, smidige utviklere og designere som ønsker et enkelt og  pent verktøy som gjør arbeidet fornøyelig."
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "Du er nå sluttet til prosjektet {{project_name}}, velkommen!"
     },
     "HOME": {
-        "PAGE_TITLE": "Hjem - Taiga",
+        "PAGE_TITLE": "Hjem - Pmhub",
         "PAGE_DESCRIPTION": "Taiga hjemmeside med dine viktigste prosjekter og alle dine tildelte og overvåkede brukerhistorier, oppgaver og hendelser",
         "EMPTY_WORKING_ON": "<strong>Det føles tom, gjør det ikke?</strong> Start å jobbe med Taiga og du vil se her brukerhistorier, opggaver og hendelser du jobber med.",
         "EMPTY_WATCHING": "<strong>Følg</strong> Brukerhistorier, Oppgaver, Hendelser i dine projekter og bli varslet når noe blir endret :)",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Mine prosjekter - Taiga",
+        "PAGE_TITLE": "Mine prosjekter - Pmhub",
         "PAGE_DESCRIPTION": "Liste med alle dine prosjekter du kan endre rekkefølgen på eller opprette et nytt.",
         "MY_PROJECTS": "Mine prosjekter"
     },
@@ -1839,7 +1842,7 @@
             "CLEAR": "Fjern filtrene"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Søk - Oppdag prosjekter - Taiga",
+            "PAGE_TITLE": "Søk - Oppdag prosjekter - Pmhub",
             "PAGE_DESCRIPTION": "Søkbar katalog med offentlige prosjekter i Taiga. Utforsk backlogger, tidslinjer, hendelser og team. Sjekk ut de mest likte og mest aktive prosjektene. Filtrer etter Kanban og Scrum.",
             "INPUT_PLACEHOLDER": "Skriv noe...",
             "ACTION_TITLE": "Søk",

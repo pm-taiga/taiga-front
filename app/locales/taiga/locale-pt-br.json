@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "Adicionar links da wiki",
                 "DELETE_WIKI_LINKS": "Excluir links da wiki"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Login - Taiga",
+        "PAGE_TITLE": "Login - Pmhub",
         "PAGE_DESCRIPTION": "Entrando no Taiga, uma plataforma de gerenciamento de projetos para startups com desenvolvedores  e designers ágeis que desejam uma ferramenta simples e  bela que torne o trabalho realmente agradável."
     },
     "AUTH": {
@@ -333,7 +336,7 @@
         "SUCCESS": "Nossos Oompa Loompas estão felizes, bem vindo ao Taiga."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Cadastre-se - Taiga",
+        "PAGE_TITLE": "Cadastre-se - Pmhub",
         "PAGE_DESCRIPTION": "Crie sua conta no Taiga, uma plataforma de gerenciamento de projetos para startups e desenvolvedores ágeis & designers que desejam uma ferramenta bela e simples que torne o trabalho realmente agradável.\""
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "Você já está registrado? Idenfique-se"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Esqueceu sua senha - Taiga",
+        "PAGE_TITLE": "Esqueceu sua senha - Pmhub",
         "PAGE_DESCRIPTION": "Informe seu nome de usuário ou email para receber uma nova senha e ter acesso ao Taiga novamente."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "Segundo nossos Oompa Loompas, você ainda não está inscrito."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Alterar sua senha - Taiga",
+        "PAGE_TITLE": "Alterar sua senha - Pmhub",
         "SECTION_NAME": "Alterar senha",
         "FIELD_CURRENT_PASSWORD": "Senha atual",
         "PLACEHOLDER_CURRENT_PASSWORD": "Sua senha atual (ou vazio caso ainda não tenha uma senha)",
@@ -381,7 +384,7 @@
         "SUCCESS": "Nossos Oompa Loompas salvaram sua nova senha.<br /> Tente <strong>identificar-se</strong> com ela."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Aceitando um convite - Taiga",
+        "PAGE_TITLE": "Aceitando um convite - Pmhub",
         "PAGE_DESCRIPTION": "Aceitar o convite para participar de um projeto no Taiga, uma plataforma de gerenciamento de projetos para startups e desenvolvedores ágeis & designers que desejam uma ferramenta bela e simples que torne o trabalho realmente agradável."
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "Você ingressou com sucesso nesse projeto, Seja bem vindo ao projeto {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Início - Taiga",
+        "PAGE_TITLE": "Início - Pmhub",
         "PAGE_DESCRIPTION": "A página inicial do Taiga com seus principais projetos e todas as histórias de usuários atribuídas ou observadas por você, tarefas e problemas",
         "EMPTY_WORKING_ON": "<strong>Parece vazio, não acha?</strong> Comece a trabalhar com Taiga e você verá aqui as histórias, tarefas e problemas em que está trabalhando.",
         "EMPTY_WATCHING": "<strong>Siga</strong> Histórias de Usuários, Tarefas e Problemas nos seus projetos e seja notificado das mudanças :)",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Meus projetos - Taiga",
+        "PAGE_TITLE": "Meus projetos - Pmhub",
         "PAGE_DESCRIPTION": "Uma lista com todos os seus projetos, você pode reorganizá-los ou criar um novo.",
         "MY_PROJECTS": "Meus Projetos"
     },
@@ -1816,7 +1819,7 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Descubra projetos - Taiga",
+        "PAGE_TITLE": "Descubra projetos - Pmhub",
         "PAGE_DESCRIPTION": "Diretório pesquisável de projetos públicos no Taiga. Explore backlogs, linhas do tempo, problemas e times. Encontre os projetos mais curtidos ou mais ativos. Filtre por Kanban ou Scrum.",
         "DISCOVER_TITLE": "Descobrir projetos",
         "DISCOVER_SUBTITLE": "{projects, plural, one{One public project to discover} other{# public projects to discover}}",
@@ -1839,7 +1842,7 @@
             "CLEAR": "Limpar filtros"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Procurar - Descobrir projetos - Taiga",
+            "PAGE_TITLE": "Procurar - Descobrir projetos - Pmhub",
             "PAGE_DESCRIPTION": "Diretório pesquisável de projetos públicos no Taiga. Explore backlogs, linhas do tempo, problemas e times. Encontre os projetos mais curtidos ou mais ativos. Filtre por Kanban ou Scrum.",
             "INPUT_PLACEHOLDER": "Digite algo...",
             "ACTION_TITLE": "Procurar",

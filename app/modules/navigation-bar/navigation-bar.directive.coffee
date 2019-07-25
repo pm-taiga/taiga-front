@@ -27,6 +27,7 @@ NavigationBarDirective = (currentUserService, navigationBarService, locationServ
 
         scope.vm.publicRegisterEnabled = config.get("publicRegisterEnabled")
         scope.vm.customSupportUrl = config.get("supportUrl")
+        scope.vm.homeUrl = config.get("homeUrl")
 
         scope.vm.login = ->
             nextUrl = encodeURIComponent(locationService.url())

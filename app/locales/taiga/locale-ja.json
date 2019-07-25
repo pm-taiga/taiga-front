@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "Wikiリンクを追加",
                 "DELETE_WIKI_LINKS": "Wikiリンクの削除"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "ログイン - Taiga",
+        "PAGE_TITLE": "ログイン - Pmhub",
         "PAGE_DESCRIPTION": "スタートアップ、デベロッパー、デザイナーのための、仕事を真から楽しくするシンプルで美しいプロジェクトマネージメントツール、Taigaにログインしましょう。"
     },
     "AUTH": {
@@ -333,7 +336,7 @@
         "SUCCESS": "ウンパルンパたちは嬉しいみたいですよ。Taigaへようこそ。"
     },
     "REGISTER": {
-        "PAGE_TITLE": "登録 - Taiga",
+        "PAGE_TITLE": "登録 - Pmhub",
         "PAGE_DESCRIPTION": "スタートアップ、デベロッパー、デザイナーのための、仕事を真から楽しくするシンプルで美しいプロジェクトマネージメントツール、Taigaのアカウントを作成しましょう。"
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "登録の準備は整いましたか？ ログイン"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "パスワードを忘れました - Taiga",
+        "PAGE_TITLE": "パスワードを忘れました - Pmhub",
         "PAGE_DESCRIPTION": "ユーザー名 または メールアドレスを記入して新しいパスワードを取得すれば、Taigaに再びアクセスできます。"
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "「あなたのアカウントはまだ登録されていない」とウンパルンパたちが言っています。"
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "パスワードの変更 - Taiga",
+        "PAGE_TITLE": "パスワードの変更 - Pmhub",
         "SECTION_NAME": "パスワード変更",
         "FIELD_CURRENT_PASSWORD": "現在のパスワード",
         "PLACEHOLDER_CURRENT_PASSWORD": "現在のパスワード (パスワードが未設定の場合は空)",
@@ -381,7 +384,7 @@
         "SUCCESS": "ウンパルンパたちはあなたの新しいパスワードを保存しました。<br /> 新しいパスワードで<strong>サインイン</strong> してみてください。"
     },
     "INVITATION": {
-        "PAGE_TITLE": "招待を受諾する - Taiga",
+        "PAGE_TITLE": "招待を受諾する - Pmhub",
         "PAGE_DESCRIPTION": "スタートアップ、デベロッパー、デザイナーのための、仕事を真から楽しくするシンプルで美しいプロジェクトマネージメントツール、Taigaへの招待を受諾します。"
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "プロジェクトへの参加に成功しました, {{project_name}}へようこそ"
     },
     "HOME": {
-        "PAGE_TITLE": "ホーム - Taiga",
+        "PAGE_TITLE": "ホーム - Pmhub",
         "PAGE_DESCRIPTION": "あなたのメインプロジェクト、担当あるいはフォローしているユーザーストーリー、タスク、課題が表示されるTaigaのホームページです。",
         "EMPTY_WORKING_ON": "<strong>何も表示されていませんか？</strong> Taigaで作業を始めると、ここにあなたが取り組んでいるユーザーストーリー、タスク、課題が表示されます。",
         "EMPTY_WATCHING": "ユーザーストーリー、タスク、課題を<strong>フォロー</strong>して変更が発生した際に通知を受け取りましょう。:)",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "マイ プロジェクト - Taiga",
+        "PAGE_TITLE": "マイ プロジェクト - Pmhub",
         "PAGE_DESCRIPTION": "あなたの全てのプロジェクトのリストです。順序の入れ替えや新規作成ができます。",
         "MY_PROJECTS": "マイ プロジェクト"
     },
@@ -1816,7 +1819,7 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "プロジェクトを探す - Taiga",
+        "PAGE_TITLE": "プロジェクトを探す - Pmhub",
         "PAGE_DESCRIPTION": "検索できるTaigaの公開プロジェクトディレクトリ。バックログ、タイムライン、課題、そしてチームを探してみてください。最も人気な、あるいは活気のあるプロジェクトも見つけられます。カンバンやスクラムでフィルターしてみるのも良いかもしれません。",
         "DISCOVER_TITLE": "プロジェクトを探す",
         "DISCOVER_SUBTITLE": "{projects, plural, one{One public project to discover} other{# 件のプロジェクトが見つかりました}}",
@@ -1839,7 +1842,7 @@
             "CLEAR": "フィルターをクリア"
         },
         "SEARCH": {
-            "PAGE_TITLE": "検索結果 - プロジェクトを探す - Taiga",
+            "PAGE_TITLE": "検索結果 - プロジェクトを探す - Pmhub",
             "PAGE_DESCRIPTION": "検索できるTaigaの公開プロジェクトディレクトリ。バックログ、タイムライン、課題、そしてチームを探してみてください。最も人気な、あるいは活気のあるプロジェクトも見つけられます。カンバンやスクラムでフィルターしてみるのも良いかもしれません。",
             "INPUT_PLACEHOLDER": "入力してください",
             "ACTION_TITLE": "検索",

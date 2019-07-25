@@ -306,10 +306,13 @@
                 "ADD_WIKI_LINKS": "Wiki bağlantıları ekle",
                 "DELETE_WIKI_LINKS": "Wiki bağlantılarını sil"
             }
+        },
+        "RECORD":{
+            "ID" : "粤ICP备19075188号"
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Giriş - Taiga",
+        "PAGE_TITLE": "Giriş - Pmhub",
         "PAGE_DESCRIPTION": "Yeni girişimciler, çevik geliştiriciler ve tasarımcılar için çalışmaları gerçekten eğlenceli hale getiren basit, güzel bir proje yönetim platformu Taiga ya giriş yapılıyor."
     },
     "AUTH": {
@@ -333,7 +336,7 @@
         "SUCCESS": "Umpa Lumpalarımız çok mutlu oldular, Taiga ya hoşgeldiniz."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Kayıt ol - Taiga",
+        "PAGE_TITLE": "Kayıt ol - Pmhub",
         "PAGE_DESCRIPTION": "Yeni girişimciler, çevik geliştiriciler ve tasarımcılar için çalışmaları gerçekten eğlenceli hale getiren basit, güzel bir proje yönetim platformu Taiga da hesabınızı oluşturun."
     },
     "REGISTER_FORM": {
@@ -347,7 +350,7 @@
         "LINK_LOGIN": "Zaten üye misiniz? Giriş yapın"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Parolayı unuttum - Taiga",
+        "PAGE_TITLE": "Parolayı unuttum - Pmhub",
         "PAGE_DESCRIPTION": "Kullanıcı adınızı ya da e-posta adresinizi girerek yeni bir parola edinin ve  Taiga ya yeniden erişin."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -361,7 +364,7 @@
         "ERROR": "Honki ponkilerimize göre, siz henüz bir kayıt yaptırmamış durumdasınız."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Parolayı değiştirin - Taiga",
+        "PAGE_TITLE": "Parolayı değiştirin - Pmhub",
         "SECTION_NAME": "Parolayı değiştir",
         "FIELD_CURRENT_PASSWORD": "Şimdiki parola",
         "PLACEHOLDER_CURRENT_PASSWORD": "Şimdiki parolanız (boş da olabilir eger parola belirlemediyseniz)",
@@ -381,7 +384,7 @@
         "SUCCESS": "Honki ponkilerimiz yeni parolanızı kaydetti. <br /> Yeni parolanız ile <strong>giriş yapın</strong>"
     },
     "INVITATION": {
-        "PAGE_TITLE": "Davet kabulü - Taiga",
+        "PAGE_TITLE": "Davet kabulü - Pmhub",
         "PAGE_DESCRIPTION": "Yeni girişimciler, çevik geliştiriciler ve tasarımcılar için çalışmaları gerçekten eğlenceli hale getiren basit, güzel bir proje yönetim platformu Taiga dan yapılan daveti kabul edin."
     },
     "INVITATION_LOGIN_FORM": {
@@ -389,7 +392,7 @@
         "SUCCESS": "Projeye katılımınız başarıyla gerçekleşti.  {{project_name}} 'ye hoş geldiniz."
     },
     "HOME": {
-        "PAGE_TITLE": "AnaSayfa - Taiga",
+        "PAGE_TITLE": "AnaSayfa - Pmhub",
         "PAGE_DESCRIPTION": "Atanmış ve izlenen kullanıcı hikayeleri, işler ve sorunların yanı sıra ana projeleriniz için Taiga ana sayfanız",
         "EMPTY_WORKING_ON": "<strong>Burası bomboş, değil mi?</strong> Taiga ile çalışmaya başlayınca burada hikayeler, isler ve sorunları göreceksin.",
         "EMPTY_WATCHING": "Projelerinizdeki Kullanıcı Hikayelerini, İşleri ve Sorunları <strong>takip edin</strong> ve değişikliklerden haberdar olun :) ",
@@ -441,7 +444,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Projelerim - Taiga",
+        "PAGE_TITLE": "Projelerim - Pmhub",
         "PAGE_DESCRIPTION": "Tüm projelerinizi içeren bir liste, yenide düzenle ya da yeni bir tane yarat.",
         "MY_PROJECTS": "Projelerim"
     },
@@ -1816,7 +1819,7 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Projeleri keşfedin - Taiga",
+        "PAGE_TITLE": "Projeleri keşfedin - Pmhub",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
         "DISCOVER_TITLE": "Proje keşfedin",
         "DISCOVER_SUBTITLE": "{projects, plural, one{Keşfedilecek bir açık proje} other{Keşfedilecek # açık proje}}",
@@ -1839,7 +1842,7 @@
             "CLEAR": "Filtreleri kaldır"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Arama - Proje keşfedin - Taiga",
+            "PAGE_TITLE": "Arama - Proje keşfedin - Pmhub",
             "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
             "INPUT_PLACEHOLDER": "Birşeyler yazın...",
             "ACTION_TITLE": "Ara",
